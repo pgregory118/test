@@ -1,4 +1,6 @@
 # test
 # Change to master
 # Master change
-fred
+# fred
+# Another change to master
+# Commit 1
